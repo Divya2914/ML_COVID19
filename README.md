@@ -1,3 +1,3 @@
 # ML
 ML projects
-titanic prediction using python 
+covid19 predction using python 

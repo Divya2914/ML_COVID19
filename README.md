@@ -1,3 +1,2 @@
 # ML
-ML projects
-covid19 predction using python 
+covid19 predction using linear regression, matplotlib and sklearn.
